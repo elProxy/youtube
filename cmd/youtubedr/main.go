@@ -16,8 +16,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/kkdai/youtube/v2"
-	ytdl "github.com/kkdai/youtube/v2/downloader"
+	"github.com/elproxy/youtube/v2"
+	ytdl "github.com/elproxy/youtube/v2/downloader"
 	"github.com/olekukonko/tablewriter"
 )
 
